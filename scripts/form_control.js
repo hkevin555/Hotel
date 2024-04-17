@@ -5,7 +5,7 @@ function main() {
     "Kevin Hernandez",
     "1234 Duck Ave Florence, AL 35631",
     "0",
-    "9",
+    "0",
     "0",
     "loved it would definitley come back again",
     "1"]
