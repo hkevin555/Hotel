@@ -58,7 +58,7 @@ function set_option(val){
   $("#message").empty();
   let message = "";
   if(val == 0){
-    message = `<label for="points">How often do you use google on a scale of 1-10: </label>\
+    message = `<label for="points">How often do you come to Peters Pet Store on a weekly basis on a scale of 1-10: </label>\
     <input type="number" class = "selected" name="google" min="1" max="10">`;
   } else if (val == 1) {
     message = `<label for="friend_name">What's your friend's name: </label>\
